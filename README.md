@@ -56,3 +56,5 @@ la moda es el elemento que mas se repite
 - Segundo paso: implementar la fórmula en JavaScrpt
 - Tercer paso: crear funciones
 - Cuarto paso: integrar JS con HTML
+
+Estos son practicas
